@@ -1,3 +1,5 @@
+//mysql -u root -p
+
 // get the client
 const mysql = require('mysql2');
 require('dotenv').config();
